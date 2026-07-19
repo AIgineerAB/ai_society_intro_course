@@ -12,8 +12,8 @@ In this course, you'll dive into:
 - fundamentals of GDPR
 - how AI and UNs global goals
 
-| **Week** | **Content** | **Lectures** | **Exercise** |
-| -------- | ----------- | ------------ | ------------ |
-| 1        |             | 00-04        | 0            |
-| 2        |             |              | 1            |
-| 3        | Exam        |              |              |
+| **Week** | **Content**                       | **Lectures** | **Exercise** |
+| -------- | --------------------------------- | ------------ | ------------ |
+| 1        | intro, genAI, AI adoption         | 00-03        | 0            |
+| 2        | AI ethics, UN goals, legislations | 04-07        | 1, mock exam |
+| 3        | AI and learnig, Exam              | 08           |              |
