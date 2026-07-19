@@ -1,34 +1,15 @@
 # Course structure
 
-
-**part 1 - video on course structure**
-
-
-<!-- <a href="https://www.youtube.com/watch?v=YZxZt7plGyI" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/python_videos/course_structure.png?raw=true" alt="course structure" width="600">
-</a> -->
-
-**part 2 - navigating github repository**
-
-TODO: video
-<!-- 
-<a href="https://youtu.be/woVKB99-KFg" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/01_course_structure_2.png?raw=true" alt="dbeaver navigation" width="600">
-</a> -->
-
-TODO: make this table fit your course
-
 All course material can be found in this github repository. The course material is described in this table
 
 | Type of material | Description                                        | Location                     |
 | ---------------- | -------------------------------------------------- | ---------------------------- |
 | videos           | video lecture link                                 | readmes in lecture directory |
 | lecture slides   | slides used in the videos                          | lecture directory            |
-| code notebook    | jupyter notebooks with full annotations            | lecture directory            |
 | exercises        | some exercises and glossary                        | exercise directory           |
 | readme           | lecture notes, links to videos and other resources | lecture directory            |
 
-there is also two labs, which is only available for the students that are enrolled in this course. These labs are found in their learning management system (LMS).
+there is also an exam, which is only available for the students that are enrolled in this course. 
 
 ## Study tips
 
@@ -42,7 +23,7 @@ there is also two labs, which is only available for the students that are enroll
 > Watch the videos, pause and rewind when needed so that you can follow along.
 
 > [!TIP]
-> Write a lot of code, don't just copy and paste code, type it out and code along the videos. In this way you'll develop muscle memory in programming. Similar goes to when you take code from LLM's, always type it out and see if you also can rewrite the code to fit your needs better.
+> You need to organize the knowledge in your brain, and use it to solve problems, to join discussions etc. It is not enough to just think that you understand it. Learning takes time and effort, LLM can many times be detrimental to your learning, as it already organizes everything and "spoonfeeds" you
 
 > [!TIP]
 > Skim through the resources, you probably won't have time to read all of the resources. Use it as a reference when needing to deep dive in some concepts.
