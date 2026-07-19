@@ -1,20 +1,17 @@
-# COURSE_NAME
+# AI society introduction course
 
-In this course, you'll dive into: ...
+In this course, you'll dive into:
 
-For this you will be using the following tools:
-
-Prerequisites for this course are:
+- introduction to AI
+- what is AI and AI project
+- different AI applications
+- bias and ethics in AI
+- fundamentals of EU AI act
+- fundamentals of GDPR
+- how AI and UNs global goals
 
 | **Week** | **Content** | **Lectures** | **Exercise** |
 | -------- | ----------- | ------------ | ------------ |
 | 1        |             | 00-04        | 0            |
 | 2        |             |              | 1            |
-| 3        |             |              | 2            |
-| 4        |             |              | 3            |
-| 5        |             |              |              |
-| 6        |             |              |              |
-| 7        |             |              |              |
-| 8        |             |              |              |
-
-
+| 3        | Exam        |              |              |
