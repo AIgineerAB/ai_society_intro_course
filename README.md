@@ -3,8 +3,10 @@
 In this course, you'll dive into:
 
 - introduction to AI
+- AI history
 - what is AI and AI project
 - different AI applications
+- AI and the modern workplace
 - bias and ethics in AI
 - fundamentals of EU AI act
 - fundamentals of GDPR

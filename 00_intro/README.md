@@ -5,7 +5,7 @@
 </a>
 
 
-
-## Other videos 📹
-
 ## Read more 👓
+
+- [What is artificial intelligence (AI)? - IBM (2026)](https://www.ibm.com/think/topics/artificial-intelligence)
+- 
