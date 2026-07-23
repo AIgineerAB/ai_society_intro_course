@@ -18,3 +18,4 @@ AI sweden
 - [AI vision](https://www.ai.se/en/adoption/ai-vision)
 - [AI adoption](https://www.ai.se/en/ai-adoption)
 - [AI maturity assesment](https://www.ai.se/en/adoption/ai-maturity-assessment)
+- [AI kompassen](https://my.ai.se/resurser/2601)
