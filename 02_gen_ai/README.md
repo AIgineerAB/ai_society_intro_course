@@ -2,8 +2,12 @@
 
 **part 1 - intro to generative AI**
 
+<a href="https://youtu.be/zPh5mIASTXg" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_intro/gen_ai.png?raw=true" alt="Introduction to generative ai" width="600">
+</a>
 
-
+<br>
+<br>
 
 **part 2 - introduction to gemini**
 
@@ -11,11 +15,17 @@
   <img src="https://github.com/kokchun/assets/blob/main/ai_intro/gemini.png?raw=true" alt="Introduction to gemini" width="600">
 </a>
 
+<br>
+<br>
+
 **part 3 - notebook LM**
 
 <a href="https://youtu.be/6y0L25mkh88" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/ai_intro/notebooklm.png?raw=true" alt="navigation into notebooklm" width="600">
 </a>
+
+<br>
+<br>
 
 **part 4 - generating presentations**
 
@@ -23,6 +33,8 @@
   <img src="https://github.com/kokchun/assets/blob/main/ai_intro/presentations.png?raw=true" alt="AI tools for presentations" width="600">
 </a>
 
+<br>
+<br>
 
 ## Some covered topics
 
