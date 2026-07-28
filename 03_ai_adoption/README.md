@@ -1,9 +1,7 @@
 # AI adoption
 
-## TODO: AI adoption slides and video 
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/7XL1-Y0b5AQ" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_intro/ai_adoption.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
 
 
