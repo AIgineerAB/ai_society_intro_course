@@ -1,10 +1,7 @@
 # AI and the UN global goals
 
-TODO: slides
-TODO: video
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/V_56I5_mt6A" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/ai_intro/un_sdg.png?raw=true" alt="AI and UN SDG" width="600">
 </a>
 
 ## Other videos 📹
