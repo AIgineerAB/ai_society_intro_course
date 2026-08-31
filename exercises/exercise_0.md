@@ -1,36 +1,19 @@
-# Exercise 0 -
+# Exercise 0 - introduction to AI, practice and society
 
-In this exercise, you get to familiarize yourself with ...
+## coming soon ...  
 
-## 0. practical exercise
+In this exercise, you get an introduction to AI, practice and society
 
-DESCRIPTION
+## 0. 
 
-&nbsp; a)
+## 1. 
 
-&nbsp; b)
 
-&nbsp; c)
 
-&nbsp; d)
+## 2. 
 
-&nbsp; e)
 
-## 1. practical exercise
-
-DESCRIPTION
-
-&nbsp; a)
-
-&nbsp; b)
-
-&nbsp; c)
-
-&nbsp; d)
-
-&nbsp; e)
-
-## 2. Theory questions
+## 3. Theory questions
 
 DESCRIPTION
 
@@ -49,9 +32,13 @@ Fill in this table either by copying this into your own markdown file or copy it
 | AI               |             |
 | machine learning |             |
 | deep learning    |             |
-|                  |             |
-|                  |             |
-|                  |             |
+| generative AI    |             |
+| data processing  |             |
+| AI adoption      |             |
+| LLM              |             |
+| LMM              |             |
+| data analysis    |             |
+| computer vision  |             |
 |                  |             |
 |                  |             |
 |                  |             |
