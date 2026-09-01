@@ -1,7 +1,5 @@
 # Exercise 0 - introduction to AI, practice and society
 
-## coming soon ...  
-
 In this exercise, you get an introduction to AI, practice and society. 
 
 > [!NOTE]
