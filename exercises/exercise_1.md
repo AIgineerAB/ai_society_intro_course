@@ -38,6 +38,10 @@ d) If GDPR is protecting your personal data and countries in general EU regulati
 
 e) GDPR fines can go up to 20 million euro or up to 4% of a companies global revenue. Use this [GDPR enforcement tracker](https://www.enforcementtracker.com/) to filter out the top 10 largest fines in Sweden. Read a few of them and write down how they could do to comply with GDPR? 
 
+f) An american company has customers in Denmark storing facial data and other personal information in plain documents. This company has had a breach in which these data has been leaked. Is it violating any principles in article 5, which one? Also does GDPR apply at all, we're talking about an American company here. 
+
+g) This company has also tried to hide the fact that a breach has occured. Check article 33 and 34, what should this company have done after a breach has occured?
+
 
 ## 3. AI act
 
