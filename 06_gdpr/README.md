@@ -13,6 +13,8 @@ TODO: video
 ## Other videos 📹
 
 ## Read more 👓
+- [official GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng#art_5)
+
 
 In swedish
 - [GDPR vid användning av generativ AI](https://www.imy.se/globalassets/dokument/rapporter/gdpr-vid-anvandning-av-generativ-ai_imy-2024-9162.pdf)
