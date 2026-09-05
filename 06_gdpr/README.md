@@ -1,10 +1,7 @@
 # GDPR and generative AI
 
-TODO: slides
-TODO: video
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/rc2c8F51CvM" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/legal/gdpr_intro.png?raw=true" alt="gdpr intro" width="600">
 </a>
 
 
