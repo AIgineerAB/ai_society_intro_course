@@ -1,7 +1,5 @@
 # Exercise 1 - Sustainability and legislations
 
-## NOT FINISHED YET
-
 In this exercise, you get an introduction to sustainability and legislations related to AI 
 
 > [!NOTE]
@@ -49,9 +47,9 @@ a) AI act is a risk-based framework. Explain shortly what this means?
 
 b) Give examples of AI systems that falls under unacceptable risk
 
-c) You are doing an internship for a company that wants to develop a customer support chatbot. Which risk level does this application fall into and what requirements does the AI act have on your support bot.
+c) You are doing an internship for a company in Germany that wants to develop a customer support chatbot. Which risk level does this application fall into and what requirements does the AI act have on your support bot.
 
-d)
+d) A company called Recrutu is buying an AI system to handle AI recruitment. What risk level does it fall into and what requirements does the AI act have on this system?
 
 
 ## Glossary
@@ -69,7 +67,16 @@ Fill in this table either by copying this into your own markdown file or copy it
 | fairness                      |             |
 | sustainable development goals |             |
 | risk based regulation         |             |
-|                               |             |
-|                               |             |
+| unacceptable risk             |             |
+| high risk                     |             |
+| limited risk                  |             |
+| low risk                      |             |
+| transparency requirement      |             |
+| GPAI rules                    |             |
+| sustainable development goals |             |
+| data subject                  |             |
+| traceability                  |             |
+| notified body                 |             |
+| human oversight               |             |
 |                               |             |
 |                               |             |
