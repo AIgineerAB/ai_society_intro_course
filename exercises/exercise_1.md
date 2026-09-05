@@ -45,6 +45,13 @@ g) This company has also tried to hide the fact that a breach has occured. Check
 
 ## 3. AI act
 
+a) AI act is a risk-based framework. Explain shortly what this means? 
+
+b) Give examples of AI systems that falls under unacceptable risk
+
+c) You are doing an internship for a company that wants to develop a customer support chatbot. Which risk level does this application fall into and what requirements does the AI act have on your support bot.
+
+d)
 
 
 ## Glossary
